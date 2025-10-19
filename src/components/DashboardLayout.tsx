@@ -52,7 +52,7 @@ const DashboardLayout = () => {
   }
 
   const navItems = [
-    { icon: LayoutDashboard, label: "Dashboard", path: "/" },
+    { icon: LayoutDashboard, label: "Dashboard", path: "/dashboard" },
     { icon: Receipt, label: "Transactions", path: "/transactions" },
     { icon: Tags, label: "Categories", path: "/categories" },
   ];
